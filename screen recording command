@@ -1,0 +1,3 @@
+cd C:\Users\user\AppData\Local\Android\Sdk\platform-tools>
+
+adb shell screenrecord /sdcard/app.mp4
