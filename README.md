@@ -1,9 +1,9 @@
 # Docker-Restaurant
-<kbd>
- <p align="center">
+<p align="center">
+ <kbd>
   <img src="https://github.com/pharlan97/Docker-Restaurant/blob/master/Screen%20Image.png">
- </p>
-</kbd>
+ </kbd>
+</p>
 
 
 ## Overview
