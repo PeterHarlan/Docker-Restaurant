@@ -11,6 +11,8 @@ Going with the coastal theme, I decided to base my color scheme in teal. Moreove
 ## Known problems, bugs, limitations, unimplemented features. 
 After thorough testing, I have not found any bug associated with my project. Later down the road, I would like to link a database to the app that stores the information for the Food class. This will allow the menu item to be generated based on the database instead of hard coded into the app. 
 
+<video src="https://github.com/pharlan97/Docker-Restaurant/blob/master/app.mp4" width="600" height="600" controls preload></video>
+
 ## References
 https://unity3d.com/
 
