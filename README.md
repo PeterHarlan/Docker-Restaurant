@@ -1,5 +1,9 @@
 # Docker-Restaurant
 
+<p align="center">
+ <img src="https://github.com/pharlan97/Docker-Restaurant/blob/master/Screen%20Image.png">
+</p>
+
 ## Overview
 This project is a Restaurant app called Docker. This project was created using Unity. I decided to use Unity because I am more familiar with this IDE over other mobile development IDE (such as Xamarin, XCode, and Android Studio). Moreover, based on my research, Unity seems to make cross platform development more streamline and easier. If Xamarin forms is not used when using the Xamarin IDE for cross platform development, UI development for each platform is more segregated, making the cross-platform development lass streamline. Lastly, Unity allows the app to be tested in Play mode so that there is no need to build an APK every time I want to test a newly implemented component in the app. 
 For my project, I created a Food class that holds the different meals available in my app; the Food class inherits from Unity’s ScriptableObject class instead of MonoBehavior (the standard way to store data in an application). The Food class holds a title, description, quantity, price, calculated cost, and artwork. Some of these variable values are public because this support’s Unity’s drag and drop feature.  
@@ -10,8 +14,6 @@ Going with the coastal theme, I decided to base my color scheme in teal. Moreove
 
 ## Known problems, bugs, limitations, unimplemented features. 
 After thorough testing, I have not found any bug associated with my project. Later down the road, I would like to link a database to the app that stores the information for the Food class. This will allow the menu item to be generated based on the database instead of hard coded into the app. 
-
-<video src="https://github.com/pharlan97/Docker-Restaurant/blob/master/app.mp4" width="600" height="600" controls preload></video>
 
 ## References
 https://unity3d.com/
