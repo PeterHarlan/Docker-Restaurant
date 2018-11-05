@@ -1,8 +1,10 @@
 # Docker-Restaurant
+<kbd>
+ <p align="center">
+  <img src="https://github.com/pharlan97/Docker-Restaurant/blob/master/Screen%20Image.png">
+ </p>
+</kbd>
 
-<p align="center">
- <img src="https://github.com/pharlan97/Docker-Restaurant/blob/master/Screen%20Image.png">
-</p>
 
 ## Overview
 This project is a Restaurant app called Docker. This project was created using Unity. I decided to use Unity because I am more familiar with this IDE over other mobile development IDE (such as Xamarin, XCode, and Android Studio). Moreover, based on my research, Unity seems to make cross platform development more streamline and easier. If Xamarin forms is not used when using the Xamarin IDE for cross platform development, UI development for each platform is more segregated, making the cross-platform development lass streamline. Lastly, Unity allows the app to be tested in Play mode so that there is no need to build an APK every time I want to test a newly implemented component in the app. 
